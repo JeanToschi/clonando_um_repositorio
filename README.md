@@ -1,3 +1,3 @@
-# clonando_um_repositorio
+# Meu repositório de exercícios
 mexi e voltei
 mexi
